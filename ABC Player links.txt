@@ -1,0 +1,11 @@
+ABC syntax: 
+http://fileformats.archiveteam.org/wiki/ABC_(musical_notation)
+
+ABC melodies:
+https://www.ucolick.org/~sla/morris/music/abclib.html
+
+Online ABC player:
+https://www.abcjs.net/abcjs-editor.html
+
+
+
